@@ -1,4 +1,7 @@
-# OpenSourceSQL
+# Paige's Open Source SQL
+
+I hope you find these useful, happy SQL coding!
+
 How-Tos
 1. Get Column Names by Database
 2. Delete Duplicates in SQL Table
